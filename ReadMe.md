@@ -24,3 +24,7 @@ Jestem Asertywną oraz odpowiedzialną osobą stawiającą na dokładność wyko
 # Książki
 - R. Smilgin - Zawód Testera
 - 
+# My projects
+- Inwidualne projekt - testowana strona [kaemstal-garaze.pl](https://kaemstal-garaze.pl/)
+- [Mapa myśli](https://drive.google.com/file/d/1FHC_NZKUSXy2wV-3AZvxjZouzNWPxxTB/view?usp=drive_link)
+- [Raport błędów](https://docs.google.com/document/d/1DQpKTZnqVPnh-QA-AJi04CtuCtBltZMw/edit?usp=sharing&ouid=110919841154293780622&rtpof=true&sd=true)
