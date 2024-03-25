@@ -25,9 +25,10 @@ Jestem Asertywną oraz odpowiedzialną osobą stawiającą na dokładność wyko
 - R. Smilgin - Zawód Testera. Od decyzji do zdobycia doświadczenia
 - A. Roman, L Stapp - Certyfikowany tester ISTQB
 # My projects
-- Inwidualne projekt 
-Testowana strona [kaemstal-garaze.pl](https://kaemstal-garaze.pl/)
+- Inwidualne projekty: 
+- Testowanie strony [kaemstal-garaze.pl](https://kaemstal-garaze.pl/)
 - [Mapa myśli](https://drive.google.com/file/d/1FHC_NZKUSXy2wV-3AZvxjZouzNWPxxTB/view?usp=drive_link)
 - [Raport błędów](https://docs.google.com/document/d/1DQpKTZnqVPnh-QA-AJi04CtuCtBltZMw/edit?usp=sharing&ouid=110919841154293780622&rtpof=true&sd=true)
-Scenariusze testowe dla sklepów internetowych typu OLX, allegro itp.
-[Scenariusze testowe](https://docs.google.com/document/d/1peNkkvZtkliUsAPPmPWcvpXIr_57Q3QM/edit?usp=drive_link&ouid=110919841154293780622&rtpof=true&sd=true)
+---
+
+- [Scenariusze testowe](https://docs.google.com/document/d/1peNkkvZtkliUsAPPmPWcvpXIr_57Q3QM/edit?usp=drive_link&ouid=110919841154293780622&rtpof=true&sd=true) dla sklepów internetowych typu OLX, allegro itp.
