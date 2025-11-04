@@ -1,9 +1,12 @@
 # Portfolio
 # About me
-Jestem Asertywną oraz odpowiedzialną osobą stawiającą na dokładność wykonywanej pracy. Dodatkow o cechuje mnie cierpliwość, błyskotliwość i spostrzegawczość wraz z kreatywnością. Osiągnięcia sportowe m.in.: Mistrzostw o Polski jak i Vice Mistrzostwo Europy, zdobyłem poprzez ciężką pracę i skupieniu na celu. Taką osobą jestem, czyli wytrwałą, zorganizowaną, nieustępliwie dążącą do celu. W pracy za to motywuje mnie możliwość sprawdzenia swoich umiejętności jak i zdobywanie nowej wiedzy oraz umiejętności praktycznych dzięki którym pozwoli mi na osiągnięciu wyższego stanowiska. Moimi kluczowymi umiejętnościami są analityczne spojrzenie na pojawiające się problemy, wraz z wszechstronnym podejściem poszukiwania rozwiązań. Poza tym wszystkim to moimi głównymi zainteresowaniami są: podróże, sport oraz aktywny styl życia przez 6 lat trenowałem sztuki walki, Japonia oraz kultura Japońska, sztuka, fotografia, gry wideo, jak również gry planszowe nowości technologiczne, testowanie, tworzenie i uczenie się nowych rzeczy.
+Jestem Asertywną oraz odpowiedzialną osobą stawiającą na dokładność wykonywanej pracy. Dodatkow o cechuje mnie cierpliwość, błyskotliwość i spostrzegawczość wraz z kreatywnością. Osiągnięcia sportowe m.in.: Mistrzostw o Polski jak i Vice Mistrzostwo Europy, zdobyłem poprzez ciężką pracę i skupieniu na celu. Taką osobą jestem, czyli wytrwałą, zorganizowaną, nieustępliwie dążącą do celu. W pracy za to motywuje mnie możliwość sprawdzenia swoich umiejętności jak i zdobywanie nowej wiedzy oraz umiejętności praktycznych dzięki którym pozwoli mi na osiągnięciu wyższego stanowiska. Moimi kluczowymi umiejętnościami są analityczne spojrzenie na pojawiające się problemy, wraz z wszechstronnym podejściem poszukiwania rozwiązań. Poza tym wszystkim to moimi głównymi zainteresowaniami są: podróże, sport oraz aktywny styl życia przez 6 lat trenowałem sztuki walki, Japonia oraz kultura Japońska, sztuka, fotografia, gry wideo, jak również gry planszowe nowości technologiczne, testowanie, tworzenie i uczenie się nowych rzeczy. Jako Hobby prowadzę gry RPG jako Mistrz Gry w systemie świecie wiedźmina.
 # Tools
  - [Jira](https://www.atlassian.com/pl/software/jira) - Narzędzie do śledzenia błędów i zarządzania projektami dla deweloperów
  - [TestLink](https://testlink.org) - Jest to sieciowa aplikacja do przechowywania dokumentacji testerskiej oraz do wykonywaniem testów
+ - [Qtest](https://www.tricentis.com/products/unified-test-management-qtest) - Narzędzie do pisania oraz wykonywania scenariuszów testowych
+ - [Azure DevOps](https://azure.microsoft.com/pl-pl/products/devops) - Narzędzie zapewniające możliwość raportowania błędów zarządzania wymaganiami, zarządzania projektami
+ - [Confluence](https://www.atlassian.com/software/confluence) - Wirtualna przestrzeń roboca umożliwiająca tworzenie dokumentacji, notatek ze spotkań oraz udostępnianie informacji
  - [Postman](https://www.postman.com) - Narzędzie do testowania dla REST API
  - [Mouse Recorder](https://www.mouserecorder.com) - Narzędzie do śledzenia ruchu myszy i klawiatury
  - [draw.io](https://www.drawio.com) - Program do tworzenia schematów blokowych i diagramów online
@@ -11,12 +14,16 @@ Jestem Asertywną oraz odpowiedzialną osobą stawiającą na dokładność wyko
 # Umiejętności Techniczne
 - Testowanie oprogramowania
 - Tworzenie i pisanie scenariuszy testowych
+- Czytanie Dokumentacji Technicznej
 - Raportowanie błędów
+- Monitorowanie aktualnego statusu zraportowanego błędu
 - SCRUM
 - AGILE
-- Tworzenie diagramów i tabeli decyzyjnych
+- Znajomość Pakietu Microsoft Office
 - SQL (poziom podstawowy)
-- Język Angielski B2 (Pisany i w mowie) 
+- Język Polski (Ojczysty)
+- Język Angielski B2 (Pisany i w mowie)
+- Tworzenie diagramów i tabeli decyzyjnych
 # Certyfikaty
 - [Podstawy testowania w praktyce] Przez CODE:ME NR PTP-003/2024
 - [ISTQB] (W trakcie)
