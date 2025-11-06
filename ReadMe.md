@@ -8,6 +8,7 @@ Jestem Asertywną oraz odpowiedzialną osobą stawiającą na dokładność wyko
  - [Azure DevOps](https://azure.microsoft.com/pl-pl/products/devops) - Narzędzie zapewniające możliwość raportowania błędów zarządzania wymaganiami, zarządzania projektami
  - [Confluence](https://www.atlassian.com/software/confluence) - Wirtualna przestrzeń roboca umożliwiająca tworzenie dokumentacji, notatek ze spotkań oraz udostępnianie informacji
  - [Postman](https://www.postman.com) - Narzędzie do testowania dla REST API
+ - [Clipchamp](https://clipchamp.com/pl/) - Narzędzie Microsoft do nagrywania oraz edytowania plików wideo
  - [Mouse Recorder](https://www.mouserecorder.com) - Narzędzie do śledzenia ruchu myszy i klawiatury
  - [draw.io](https://www.drawio.com) - Program do tworzenia schematów blokowych i diagramów online
  - [Github](https://github.com) - Narzędzie do dysponowania repozytorium, a także:  śledzenia i współpracy nad projektami oprogramowania
